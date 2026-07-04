@@ -32,7 +32,7 @@
 
 namespace {
 
-  constexpr float kRowHeight = 46.0f;
+  constexpr float kRowHeight = 56.0f;
   constexpr float kPreviewImageHeight = 280.0f;
   constexpr float kListGlyphSize = 24.0f;
   constexpr float kListThumbSize = 40.0f;
